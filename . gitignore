@@ -1,0 +1,29 @@
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+venv_final/
+*.sqlite3
+*.db
+
+# Java
+*.class
+bin/
+build/
+dist/
+lib/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.log
+*.tmp
+*.bak
